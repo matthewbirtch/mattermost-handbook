@@ -73,7 +73,7 @@ When you need to show a particular part of the product, don't crop the image and
 
 #### Do show sub-components framed in grey \(\#F7F9FA\) background 
 
-Instead, show the sub-component at 100% zoom with a 12pt white border \(so there is white space\) and a grew \(\#F7F9FA\) background with no border, so the image is elegantly framed:
+Instead, show the sub-component at 100% zoom with a 12pt white border \(so there is white space\) and a grey \(\#F7F9FA\) background with no border, so the image is elegantly framed:
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
